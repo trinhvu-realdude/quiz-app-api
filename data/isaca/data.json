@@ -1,0 +1,31 @@
+[ {
+  "id" : 1,
+  "name" : "COBIT: A Business Framework for the Governance and Management of Enterprise IT",
+  "url" : "/isaca/cobit",
+  "numberOfQuestions" : 88,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isaca/cobit.png"
+}, {
+  "id" : 2,
+  "name" : "CISM: Certified Information Security Manage",
+  "url" : "/isaca/cism",
+  "numberOfQuestions" : 500,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isaca/cism.png"
+}, {
+  "id" : 3,
+  "name" : "CISA: Certified Information Systems Auditor",
+  "url" : "/isaca/cisa",
+  "numberOfQuestions" : 1000,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isaca/cisa.png"
+}, {
+  "id" : 4,
+  "name" : "CRISC: Certified Risk and Information Systems Control",
+  "url" : "/isaca/crisc",
+  "numberOfQuestions" : 500,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isaca/crisc.png"
+}, {
+  "id" : 5,
+  "name" : "CGEIT: Certified in the Governance of Enterprise IT",
+  "url" : "/isaca/cgeit",
+  "numberOfQuestions" : 280,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isaca/cgeit.png"
+} ]

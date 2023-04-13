@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "name" : "JN0-102: Juniper Networks Certified Associate Junos",
+  "url" : "/juniper/jn0-102",
+  "numberOfQuestions" : 405,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/juniper/jn0-102.png"
+}, {
+  "id" : 2,
+  "name" : "JN0-360: Juniper Networks Certified Internet Specialist",
+  "url" : "/juniper/jn0-360",
+  "numberOfQuestions" : 477,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/juniper/jn0-360.png"
+} ]

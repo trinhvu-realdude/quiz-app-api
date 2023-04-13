@@ -1,0 +1,223 @@
+[ {
+  "id" : 1,
+  "name" : "AI-900: Microsoft Azure AI Fundamentals",
+  "url" : "/microsoft/ai-900",
+  "numberOfQuestions" : 125,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/ai-900.png"
+}, {
+  "id" : 2,
+  "name" : "AZ-100: Microsoft Azure Infrastructure and Deployment",
+  "url" : "/microsoft/az-100",
+  "numberOfQuestions" : 197,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-100.png"
+}, {
+  "id" : 3,
+  "name" : "AZ-101: Microsoft Azure Integration and Security",
+  "url" : "/microsoft/az-101",
+  "numberOfQuestions" : 48,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-101.png"
+}, {
+  "id" : 4,
+  "name" : "AZ-104: Microsoft Azure Administrator",
+  "url" : "/microsoft/az-104",
+  "numberOfQuestions" : 247,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-104.png"
+}, {
+  "id" : 5,
+  "name" : "AZ-300: Microsoft Azure Architect Technologies",
+  "url" : "/microsoft/az-300",
+  "numberOfQuestions" : 239,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-300.png"
+}, {
+  "id" : 6,
+  "name" : "AZ-301: Microsoft Azure Architect Design",
+  "url" : "/microsoft/az-301",
+  "numberOfQuestions" : 231,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-301.png"
+}, {
+  "id" : 7,
+  "name" : "AZ-303: Microsoft Azure Architect Technologies",
+  "url" : "/microsoft/az-303",
+  "numberOfQuestions" : 267,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-303.png"
+}, {
+  "id" : 8,
+  "name" : "AZ-304: Microsoft Azure Architect Design",
+  "url" : "/microsoft/az-304",
+  "numberOfQuestions" : 115,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-304.png"
+}, {
+  "id" : 9,
+  "name" : "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+  "url" : "/microsoft/az-305",
+  "numberOfQuestions" : 59,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-305.png"
+}, {
+  "id" : 10,
+  "name" : "AZ-400: Designing and Implementing Microsoft DevOps Solutions",
+  "url" : "/microsoft/az-400",
+  "numberOfQuestions" : 296,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-400.png"
+}, {
+  "id" : 11,
+  "name" : "AZ-500: Microsoft Azure Security Technologies",
+  "url" : "/microsoft/az-500",
+  "numberOfQuestions" : 236,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-500.png"
+}, {
+  "id" : 12,
+  "name" : "AZ-900: Microsoft Azure Fundamentals",
+  "url" : "/microsoft/az-900",
+  "numberOfQuestions" : 230,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-900.png"
+}, {
+  "id" : 13,
+  "name" : "DP-200: Implementing an Azure Data Solution",
+  "url" : "/microsoft/dp-200",
+  "numberOfQuestions" : 170,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/dp-200.png"
+}, {
+  "id" : 14,
+  "name" : "DP-900: Microsoft Azure Data Fundamentals",
+  "url" : "/microsoft/dp-900",
+  "numberOfQuestions" : 156,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/dp-900.png"
+}, {
+  "id" : 15,
+  "name" : "AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub",
+  "url" : "/microsoft/az-600",
+  "numberOfQuestions" : 125,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-600.png"
+}, {
+  "id" : 16,
+  "name" : "AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop",
+  "url" : "/microsoft/az-140",
+  "numberOfQuestions" : 105,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-140.png"
+}, {
+  "id" : 17,
+  "name" : "DP-203: Data Engineering on Microsoft Azure",
+  "url" : "/microsoft/dp-203",
+  "numberOfQuestions" : 240,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/dp-203.png"
+}, {
+  "id" : 18,
+  "name" : "DP-100: Designing and Implementing a Data Science Solution on Azure",
+  "url" : "/microsoft/dp-100",
+  "numberOfQuestions" : 140,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/dp-100.png"
+}, {
+  "id" : 19,
+  "name" : "AZ-204: Developing Solutions for Microsoft Azure",
+  "url" : "/microsoft/az-204",
+  "numberOfQuestions" : 179,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-204.png"
+}, {
+  "id" : 20,
+  "name" : "MS-700: Managing Microsoft Teams",
+  "url" : "/microsoft/ms-700",
+  "numberOfQuestions" : 175,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/ms-700.png"
+}, {
+  "id" : 21,
+  "name" : "MS-500: Microsoft 365 Security Administration",
+  "url" : "/microsoft/ms-500",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/ms-500.png"
+}, {
+  "id" : 22,
+  "name" : "AI-102: Designing and Implementing a Microsoft Azure AI Solution",
+  "url" : "/microsoft/ai-102",
+  "numberOfQuestions" : 166,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/ai-102.png"
+}, {
+  "id" : 23,
+  "name" : "AZ-220: Microsoft Azure IoT Developer",
+  "url" : "/microsoft/az-220",
+  "numberOfQuestions" : 125,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/az-220.png"
+}, {
+  "id" : 24,
+  "name" : "MB-800: Microsoft Dynamics 365 Business Central Functional Consultant",
+  "url" : "/microsoft/mb-800",
+  "numberOfQuestions" : 70,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-800.png"
+}, {
+  "id" : 25,
+  "name" : "MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant",
+  "url" : "/microsoft/mb-230",
+  "numberOfQuestions" : 124,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-230.png"
+}, {
+  "id" : 26,
+  "name" : "MB-310: Microsoft Dynamics 365 Finance Functional Consultant",
+  "url" : "/microsoft/mb-310",
+  "numberOfQuestions" : 150,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-310.png"
+}, {
+  "id" : 27,
+  "name" : "MB-210: Microsoft Dynamics 365 Sales Functional Consultant",
+  "url" : "/microsoft/mb-210",
+  "numberOfQuestions" : 154,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-210.png"
+}, {
+  "id" : 28,
+  "name" : "MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing",
+  "url" : "/microsoft/mb-320",
+  "numberOfQuestions" : 112,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-320.png"
+}, {
+  "id" : 29,
+  "name" : "MB-300: Microsoft Dynamics 365: Core Finance and Operations",
+  "url" : "/microsoft/mb-300",
+  "numberOfQuestions" : 215,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-300.png"
+}, {
+  "id" : 30,
+  "name" : "MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer",
+  "url" : "/microsoft/mb-500",
+  "numberOfQuestions" : 103,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-500.png"
+}, {
+  "id" : 31,
+  "name" : "MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect",
+  "url" : "/microsoft/mb-700",
+  "numberOfQuestions" : 77,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/mb-700.png"
+}, {
+  "id" : 32,
+  "name" : "SC-300: Microsoft Identity and Access Administrator",
+  "url" : "/microsoft/sc-300",
+  "numberOfQuestions" : 88,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/sc-300.png"
+}, {
+  "id" : 33,
+  "name" : "SC-400: Microsoft Information Protection Administrator",
+  "url" : "/microsoft/sc-400",
+  "numberOfQuestions" : 98,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/sc-400.png"
+}, {
+  "id" : 34,
+  "name" : "PL-400: Microsoft Power Platform Developer",
+  "url" : "/microsoft/pl-400",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/pl-400.png"
+}, {
+  "id" : 35,
+  "name" : "PL-200: Microsoft Power Platform Functional Consultant",
+  "url" : "/microsoft/pl-200",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/pl-200.png"
+}, {
+  "id" : 36,
+  "name" : "PL-600: Microsoft Power Platform Solution Architect",
+  "url" : "/microsoft/pl-600",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/pl-600.png"
+}, {
+  "id" : 37,
+  "name" : "SC-200: Microsoft Security Operations Analyst",
+  "url" : "/microsoft/sc-200",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/microsoft/sc-200.png"
+} ]

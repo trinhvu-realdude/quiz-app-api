@@ -1,0 +1,37 @@
+[ {
+  "id" : 1,
+  "name" : "CMCA: Certified Marketing Cloud Administrator",
+  "url" : "/salesforce/cmca",
+  "numberOfQuestions" : 45,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/salesforce.svg"
+}, {
+  "id" : 2,
+  "name" : "CRT211: Salesforce Certified Advanced Administrator",
+  "url" : "/salesforce/crt211",
+  "numberOfQuestions" : 200,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/salesforce/crt211.png"
+}, {
+  "id" : 3,
+  "name" : "ADX-201: Essentials for New Lightning Experience Administrators",
+  "url" : "/salesforce/adx-201",
+  "numberOfQuestions" : 590,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/salesforce/adx-201.png"
+}, {
+  "id" : 4,
+  "name" : "DEV-501: Apex and Visualforce Controllers",
+  "url" : "/salesforce/dev-501",
+  "numberOfQuestions" : 96,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/salesforce.svg"
+}, {
+  "id" : 5,
+  "name" : "CRT101: Salesforce Certified Administrator",
+  "url" : "/salesforce/crt101",
+  "numberOfQuestions" : 191,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/salesforce/crt101.png"
+}, {
+  "id" : 6,
+  "name" : "CRT403: Salesforce Certified Platform App Builder",
+  "url" : "/salesforce/crt403",
+  "numberOfQuestions" : 20,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/salesforce.svg"
+} ]

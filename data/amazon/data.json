@@ -1,0 +1,67 @@
+[ {
+  "id" : 1,
+  "name" : "ANS-C01: AWS Certified Advanced Networking - Specialty",
+  "url" : "/amazon/ans-c01",
+  "numberOfQuestions" : 585,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/ans-c01.png"
+}, {
+  "id" : 2,
+  "name" : "BDS-C00: AWS Certified Big Data - Specialty",
+  "url" : "/amazon/bds-c00",
+  "numberOfQuestions" : 370,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/bds-c00.png"
+}, {
+  "id" : 3,
+  "name" : "CLF-C01: AWS Certified Cloud Practitioner",
+  "url" : "/amazon/clf-c01",
+  "numberOfQuestions" : 375,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/clf-c01.png"
+}, {
+  "id" : 4,
+  "name" : "DBS-C01: AWS Certified Database - Specialty",
+  "url" : "/amazon/dbs-c01",
+  "numberOfQuestions" : 145,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/dbs-c01.png"
+}, {
+  "id" : 5,
+  "name" : "DVA-C01: AWS Certified Developer - Associate",
+  "url" : "/amazon/dva-c01",
+  "numberOfQuestions" : 474,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/dva-c01.png"
+}, {
+  "id" : 6,
+  "name" : "DOP-C01: AWS Certified DevOps Engineer - Professional",
+  "url" : "/amazon/dop-c01",
+  "numberOfQuestions" : 500,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/dop-c01.png"
+}, {
+  "id" : 7,
+  "name" : "MLS-C01: AWS Certified Machine Learning - Specialty",
+  "url" : "/amazon/mls-c01",
+  "numberOfQuestions" : 258,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/mls-c01.png"
+}, {
+  "id" : 8,
+  "name" : "SCS-C01: AWS Certified Security - Specialty",
+  "url" : "/amazon/scs-c01",
+  "numberOfQuestions" : 310,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/scs-c01.png"
+}, {
+  "id" : 9,
+  "name" : "SAA-C03: AWS Certified Solutions Architect - Associate",
+  "url" : "/amazon/saa-c03",
+  "numberOfQuestions" : 690,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/saa-c03.png"
+}, {
+  "id" : 10,
+  "name" : "SAP-C01: AWS Certified Solutions Architect - Professional",
+  "url" : "/amazon/sap-c01",
+  "numberOfQuestions" : 465,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/sap-c01.png"
+}, {
+  "id" : 11,
+  "name" : "SOA-C02: AWS Certified SysOps Administrator - Associate",
+  "url" : "/amazon/soa-c02",
+  "numberOfQuestions" : 340,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/amazon/soa-c02.png"
+} ]

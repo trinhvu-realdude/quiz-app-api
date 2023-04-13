@@ -1,0 +1,79 @@
+[ {
+  "id" : 1,
+  "name" : "1Z0-900: Java EE 7 Application Developer",
+  "url" : "/oracle/1z0-900",
+  "numberOfQuestions" : 72,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-900.png"
+}, {
+  "id" : 2,
+  "name" : "1Z0-808: Java SE 8 Programmer I",
+  "url" : "/oracle/1z0-808",
+  "numberOfQuestions" : 76,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-808.png"
+}, {
+  "id" : 3,
+  "name" : "1Z0-809: Java SE 8 Programmer II",
+  "url" : "/oracle/1z0-809",
+  "numberOfQuestions" : 130,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-809.png"
+}, {
+  "id" : 4,
+  "name" : "1Z0-1087-20: Oracle Account Reconciliation 2020 Implementation Essentials",
+  "url" : "/oracle/1z0-1087-20",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-1087-20.png"
+}, {
+  "id" : 5,
+  "name" : "1Z0-750: Oracle Application Express 18",
+  "url" : "/oracle/1z0-750",
+  "numberOfQuestions" : 36,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-750.png"
+}, {
+  "id" : 6,
+  "name" : "1Z0-931-20: Oracle Autonomous Database Cloud 2020 Specialist",
+  "url" : "/oracle/1z0-931-20",
+  "numberOfQuestions" : 28,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-931-20.png"
+}, {
+  "id" : 7,
+  "name" : "1Z0-1072-20: Oracle Cloud Infrastructure 2020 Architect Associate",
+  "url" : "/oracle/1z0-1072-20",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-1072-20.png"
+}, {
+  "id" : 8,
+  "name" : "1Z0-997-20: Oracle Cloud Infrastructure 2020 Architect Professional",
+  "url" : "/oracle/1z0-997-20",
+  "numberOfQuestions" : 28,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-997-20.png"
+}, {
+  "id" : 9,
+  "name" : "1Z0-1067-21: Oracle Cloud Infrastructure 2021 Cloud Operations Associate",
+  "url" : "/oracle/1z0-1067-21",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-1067-21.png"
+}, {
+  "id" : 10,
+  "name" : "1Z0-1043-20: Oracle Cloud Infrastructure Developer 2020 Associate",
+  "url" : "/oracle/1z0-1043-20",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/oracle.svg"
+}, {
+  "id" : 11,
+  "name" : "1Z0-1085-20: Oracle Cloud Infrastructure Foundations 2020 Associate",
+  "url" : "/oracle/1z0-1085-20",
+  "numberOfQuestions" : 28,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-1085-20.png"
+}, {
+  "id" : 12,
+  "name" : "1Z0-1042-20: Oracle Cloud Platform Application Integration 2020 Specialist",
+  "url" : "/oracle/1z0-1042-20",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/oracle/1z0-1042-20.png"
+}, {
+  "id" : 13,
+  "name" : "1z0-404: Oracle Communications Session Border Controller 7 Basic Implementation Specialist",
+  "url" : "/oracle/1z0-404",
+  "numberOfQuestions" : 40,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/oracle.svg"
+} ]

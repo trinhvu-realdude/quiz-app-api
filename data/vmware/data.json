@@ -1,0 +1,61 @@
+[ {
+  "id" : 1,
+  "name" : "1V0-41-20: Associate VMware Network Virtualization",
+  "url" : "/vmware/1v0-41-20",
+  "numberOfQuestions" : 16,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/1v0-41-20.png"
+}, {
+  "id" : 2,
+  "name" : "2V0-21-20: Professional VMware vSphere 7.x",
+  "url" : "/vmware/2v0-21-20",
+  "numberOfQuestions" : 64,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/2v0-21-20.png"
+}, {
+  "id" : 3,
+  "name" : "3V0-752: VMware Certified Advanced Professional 7 - Desktop Management Design Exam",
+  "url" : "/vmware/3v0-752",
+  "numberOfQuestions" : 44,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/3v0-752.png"
+}, {
+  "id" : 4,
+  "name" : "VCP-CMA: Cloud Management and Automation",
+  "url" : "/vmware/vcp-cma",
+  "numberOfQuestions" : 72,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/vcp-cma.png"
+}, {
+  "id" : 5,
+  "name" : "5V0-21-21: VMware HCI Master Specialist",
+  "url" : "/vmware/5v0-21-21",
+  "numberOfQuestions" : 28,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/5v0-21-21.png"
+}, {
+  "id" : 6,
+  "name" : "2V0-51-21: Professional VMware Horizon 8.x",
+  "url" : "/vmware/2v0-51-21",
+  "numberOfQuestions" : 40,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/2v0-51-21.png"
+}, {
+  "id" : 7,
+  "name" : "2V0-41-20: Professional VMware NSX-T Data Center",
+  "url" : "/vmware/2v0-41-20",
+  "numberOfQuestions" : 56,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/2v0-41-20.png"
+}, {
+  "id" : 8,
+  "name" : "VCP-DW-2019: Digital Workspace 2019",
+  "url" : "/vmware/vcp-dw-2019",
+  "numberOfQuestions" : 36,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/vcp-dw-2019.png"
+}, {
+  "id" : 9,
+  "name" : "2V0-620: vSphere 6 Foundations",
+  "url" : "/vmware/2v0-620",
+  "numberOfQuestions" : 36,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/2v0-620.png"
+}, {
+  "id" : 10,
+  "name" : "5V0-61-19: VMware Workspace ONE Unified Endpoint Management Specialist",
+  "url" : "/vmware/5v0-61-19",
+  "numberOfQuestions" : 32,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/vmware/5v0-61-19.png"
+} ]

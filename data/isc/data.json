@@ -1,0 +1,43 @@
+[ {
+  "id" : 1,
+  "name" : "CAP: Security Assessment and Authorization Certification",
+  "url" : "/isc/cap",
+  "numberOfQuestions" : 230,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/cap.png"
+}, {
+  "id" : 2,
+  "name" : "CCSP: The Industry's Premier Cloud Security Certification",
+  "url" : "/isc/ccsp",
+  "numberOfQuestions" : 300,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/ccsp.png"
+}, {
+  "id" : 3,
+  "name" : "CSSLP: The Industry’s Premier Secure Software Development Certification",
+  "url" : "/isc/csslp",
+  "numberOfQuestions" : 190,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/csslp.png"
+}, {
+  "id" : 4,
+  "name" : "CISSP-ISSAP: Information Systems Security Architecture Professional",
+  "url" : "/isc/cissp-issap",
+  "numberOfQuestions" : 115,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/cissp-issap.png"
+}, {
+  "id" : 5,
+  "name" : "CISSP-ISSEP: Information Systems Security Engineering Professional",
+  "url" : "/isc/cissp-issep",
+  "numberOfQuestions" : 120,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/cissp-issep.png"
+}, {
+  "id" : 6,
+  "name" : "CISSP-ISSMP: Information Systems Security Management Professional",
+  "url" : "/isc/cissp-issmp",
+  "numberOfQuestions" : 95,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/cissp-issmp.png"
+}, {
+  "id" : 7,
+  "name" : "SSCP: The Premier Security Administrator Certification",
+  "url" : "/isc/sscp",
+  "numberOfQuestions" : 610,
+  "sourceLogo" : "https://www.exam-answer.com/images/logos/exams/isc/sscp.png"
+} ]
